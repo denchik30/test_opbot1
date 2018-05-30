@@ -1,1 +1,1 @@
-bot: python opbot.py
+web: python opbot.py
