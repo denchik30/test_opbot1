@@ -1,1 +1,1 @@
-web: python3 opbot.py
+bot: python3 opbot.py
