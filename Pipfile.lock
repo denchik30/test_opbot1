@@ -2,3 +2,4 @@
 python_version = "3.6.5"
 requests_version="2.7.0"
 telebot_version=="0.0.3"
+PyTelegramBotAPI==2.2.3
